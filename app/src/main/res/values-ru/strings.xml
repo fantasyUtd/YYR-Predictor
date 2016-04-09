@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YYR Predictor</string>
+    <string name="navigation_drawer_close">Закрыть навигационную панель</string>
+    <string name="navigation_drawer_open">Открыть навигационную панель</string>
+    <string name="action_setting">Настройки</string>
+</resources>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">YYR Predictor</string>
+    <string name="URL_DATABASE">https://fantasy-utd.firebaseio.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_setting">Setting</string>
 </resources>
